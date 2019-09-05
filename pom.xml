@@ -14,6 +14,7 @@
     <maven.compiler.target>1.7</maven.compiler.target>
     <spring.version>3.2.13.RELEASE</spring.version>
   </properties>
+  <!--测试-->
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
